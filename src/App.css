@@ -1,0 +1,50 @@
+html {
+  scroll-behavior: smooth;
+}
+body{
+  background-color:white;
+  font-family: 'Montserrat', 'Julius Sans One', 'Quicksand', sans-serif;
+
+}
+hr{
+  border-color: #444;
+  border: 0 0 0.5px 0;
+  width: 100%;
+  float: left;
+}
+
+
+
+
+
+
+
+
+/* *{
+  border: 1px red solid;
+} */
+
+/* century-gothic */
+/* Goudy Old Style */
+/* onClick={()=> window.open("#about", "_blank")} */
+/* Scientists investigate that which already is. Engineers create that which has never been-albert einstien */
+/* https://www.linkedin.com/in/anushkabajpai1006/ */
+/* 884EA0 */
+/* animation: bounce 1s infinite alternate;
+    -webkit-animation: bounce 1s infinite alternate;
+    @keyframes bounce {
+        from {
+          transform: translateY(0px);
+        }
+        to {
+          transform: translateY(-15px);
+        }
+      }
+      @-webkit-keyframes bounce {
+        from {
+          transform: translateY(0px);
+        }
+        to {
+          transform: translateY(-15px);
+        }
+      } */
